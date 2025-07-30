@@ -19,7 +19,7 @@ These workshops reflect hands-on learning and showcase the progression of my ski
 ### 🔹 Workshop 10 – Classification Models & Evaluation
 - Task: Compare multiple classification models using accuracy, precision, recall, and F1-score
 - Techniques: Train/test split, confusion matrix, classification report
-- Dataset: CSV dataset provided during module workshop (uploaded or referenced inside notebook)
+- Dataset: Rice Image Dataset from Kaggle (https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset)
 
 ### 🔹 Workshop 11 – Supervised Learning
 - Task: Build and tune basic machine learning models for a classification problem
