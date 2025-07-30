@@ -17,12 +17,12 @@ These workshops reflect hands-on learning and showcase the progression of my ski
 ## 📊 Contents
 
 ### 🔹 Workshop 10 – Classification Models & Evaluation
-- Task: Compare multiple classification models using accuracy, precision, recall, and F1-score
+- Task: Apply a convolutional neural network to classify the images and calculate all evaluation metrics
 - Techniques: Train/test split, confusion matrix, classification report
 - Dataset: Rice Image Dataset from Kaggle (https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset)
 
 ### 🔹 Workshop 11 – Supervised Learning
-- Task: Build and tune basic machine learning models for a classification problem
+- Task: Build and tune basic LSTM model for a classification problem
 - Techniques: Model fitting, basic parameter tuning, metric tracking
 - Dataset: UCI-like tabular dataset (included or linked within notebook)
 
