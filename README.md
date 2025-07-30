@@ -50,3 +50,5 @@ If a dataset is not included for licensing reasons, instructions are provided in
 - Simple experiments with tuning and cross-validation
 
 ---
+
+⭐ *If you found this project useful or are learning too, feel free to star it!*
