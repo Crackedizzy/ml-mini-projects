@@ -7,6 +7,9 @@ These workshops reflect hands-on learning and showcase the progression of my ski
 ---
 
 ## 📂 Project Structure
+├── Workshop_10.ipynb
+├── Workshop_11.ipynb
+├── README.md
 
 ---
 
