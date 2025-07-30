@@ -1,20 +1,52 @@
-# ml-mini-projects
-A collection of machine learning workshop notebooks from my university coursework
+# 🧠 Machine Learning Mini Projects
 
-This repository contains selected workshop notebooks from my university coursework, focusing on machine learning techniques such as classification, evaluation metrics, and model experimentation.
+This repository contains selected workshop notebooks from my university coursework in machine learning. Each notebook focuses on applying core ML concepts such as model building, evaluation, and comparison using real-world datasets.
 
-## 📁 Contents
+These workshops reflect hands-on learning and showcase the progression of my skills across classification tasks, metric interpretation, and supervised learning pipelines.
 
-### 🔹 Workshop 10
-- Built and evaluated multiple classification models
-- Used a given dataset to compare accuracy, precision, recall, and F1-score
+---
 
-### 🔹 Workshop 11
-- Implemented basic ML models for a supervised task
-- Tested model performance and tuned parameters
+## 📂 Project Structure
 
-## 🛠️ Tools Used
-- Python
-- Scikit-learn
-- Pandas
-- Jupyter Notebooks
+---
+
+## 📊 Contents
+
+### 🔹 Workshop 10 – Classification Models & Evaluation
+- Task: Compare multiple classification models using accuracy, precision, recall, and F1-score
+- Techniques: Train/test split, confusion matrix, classification report
+- Dataset: CSV dataset provided during module workshop (uploaded or referenced inside notebook)
+
+### 🔹 Workshop 11 – Supervised Learning
+- Task: Build and tune basic machine learning models for a classification problem
+- Techniques: Model fitting, basic parameter tuning, metric tracking
+- Dataset: UCI-like tabular dataset (included or linked within notebook)
+
+---
+
+## 📦 Datasets
+
+The datasets used in these workshops were provided as part of university lab sessions.  
+Where possible, datasets have been embedded or linked directly inside each notebook.  
+If a dataset is not included for licensing reasons, instructions are provided inside the notebook for how to obtain it.
+
+---
+
+## 🛠️ Tools & Libraries
+
+- Python 3.x
+- Jupyter Notebook
+- pandas
+- scikit-learn
+- matplotlib
+- seaborn
+
+---
+
+## 🧠 Future Additions
+
+- More ML workshops from future modules
+- Mini projects based on open Kaggle datasets
+- Simple experiments with tuning and cross-validation
+
+---
