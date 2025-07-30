@@ -1,8 +1,6 @@
 # ml-mini-projects
 A collection of machine learning workshop notebooks from my university coursework
 
-# 🧪 University ML Workshops
-
 This repository contains selected workshop notebooks from my university coursework, focusing on machine learning techniques such as classification, evaluation metrics, and model experimentation.
 
 ## 📁 Contents
